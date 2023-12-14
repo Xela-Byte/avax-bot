@@ -54,7 +54,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div className="w-100 my-5 py-5 rounded-md bg-gradient-to-b from-white via-rose-100 to-white">
+        {/* <div className="w-100 my-5 py-5 rounded-md bg-gradient-to-b from-white via-rose-100 to-white">
           <div className="flex flex-col xl:flex-row xl:items-center xl:justify-between xl:w-2/3 xl:mx-auto">
             <div className="text-center py-7 md:py-14">
               <p className="text-gray-700 text-4xl md:text-5xl font-semibold">
@@ -92,7 +92,7 @@ const Home = () => {
               <span className="text-red-600 ">Avabot</span> premium experiences
             </p>
           </div>
-        </div>
+        </div> */}
 
         <div className="w-100 my-5 py-5">
           <div className="space-y-10 xl:space-y-0 md:w-2/3 xl:p-10 xl:w-[100%] md:mx-auto xl:flex xl:flex-row xl:items-center xl:justify-between">
@@ -199,7 +199,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div className="w-100 my-5 bg-gradient-to-b from-gray-100 via-gray-100 to-rose-300 rounded-md p-2 xl:p-5 xl:mx-20 xl:rounded-xl 2xl:w-2/3 2xl:mx-auto 2xl:my-10">
+        {/* <div className="w-100 my-5 bg-gradient-to-b from-gray-100 via-gray-100 to-rose-300 rounded-md p-2 xl:p-5 xl:mx-20 xl:rounded-xl 2xl:w-2/3 2xl:mx-auto 2xl:my-10">
           <Image
             src={Logo}
             className="mx-auto my-10 w-20 h-20 object-cover"
@@ -236,7 +236,7 @@ const Home = () => {
               Open Bot
             </button>
           </div>
-        </div>
+        </div> */}
 
         <p className="font-bold text-sm md:text-lg text-center xl:text-lg mb-5">
           Copyright © 2023 Avabot. All rights reserved.
