@@ -25,7 +25,7 @@ const Home = () => {
             className={`text-2xl md:text-3xl xl:text-5xl font-semibold ${russ.className} flex flex-col md:flex-row xl:flex-col md:space-x-2 xl:space-x-3 md:justify-center items-center`}
           >
             <p className="md:mt-2 text-center">
-              First ever telegram sniping bot on
+              Most innovative telegram sniping bot on
             </p>
             <div className="flex">
               <Image
@@ -44,7 +44,7 @@ const Home = () => {
             </p>
           </div>
 
-          <div className="w-1/2 mx-auto pt-2 pb-5 flex justify-between md:w-1/3 xl:w-1/4">
+          <div className="w-4/5 mx-auto pt-2 pb-5 flex justify-between md:w-3/5">
             <button className="bg-gradient-to-b from-rose-600 via-rose-800 to-rose-900 font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 xl:px-6 xl:py-2 text-white rounded-lg">
               TradeAvaxBot
             </button>
@@ -196,6 +196,19 @@ const Home = () => {
                 A tool suite for strategic trading and profit protection.
               </p>
             </div>
+            <div className="shadow-md p-5 rounded-lg text-center flex flex-col items-center xl:w-1/3">
+              <Image
+                src={WithdrawFeature}
+                className="w-100 h-2/3 xl:w-1/2"
+                alt="buyFeature"
+              />
+              <p className="text-gray-800 text-xl md:text-2xl font-semibold">
+                Onramp
+              </p>
+              <p className="md:text-xl md:mt-2">
+                Buy Avax with Fiat directly into your wallet on Telegram.
+              </p>
+            </div>
           </div>
         </div>
 
@@ -214,7 +227,7 @@ const Home = () => {
             className={`text-2xl mt-5 md:text-3xl xl:text-5xl font-semibold ${russ.className} flex flex-col md:flex-row xl:flex-col md:space-x-2 xl:space-x-3 md:justify-center items-center`}
           >
             <p className="md:mt-2 text-center">
-              First ever telegram sniping bot on
+              Most innovative telegram sniping bot on
             </p>
             <div className="flex">
               <Image

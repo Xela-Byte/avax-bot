@@ -6,7 +6,7 @@ const karla = Karla({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'TradeAvaxBot',
-  description: 'First ever telegram sniping bot on',
+  description: 'Most innovative telegram sniping bot on',
 };
 
 export default function RootLayout({
