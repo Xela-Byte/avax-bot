@@ -3,7 +3,7 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        hostname: 'avabot.co',
+        hostname: 'TradeAvaxBot.co',
         pathname: '/',
         port: '',
         protocol: 'https',

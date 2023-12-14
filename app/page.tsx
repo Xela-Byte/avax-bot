@@ -38,15 +38,15 @@ const Home = () => {
           </div>
           <div className="py-5 xl:px-[20%]">
             <p className="text-center text-gray-800 md:text-lg xl:text-xl md:font-medium xl:font-bold">
-              Avabot offers the smoothest and most seamless trading experience
-              on Avalanche, setting a new benchmark for efficiency and ease of
-              use in the DeFi trading world.
+              TradeAvaxBot offers the smoothest and most seamless trading
+              experience on Avalanche, setting a new benchmark for efficiency
+              and ease of use in the DeFi trading world.
             </p>
           </div>
 
           <div className="w-1/2 mx-auto pt-2 pb-5 flex justify-between md:w-1/3 xl:w-1/4">
             <button className="bg-gradient-to-b from-rose-600 via-rose-800 to-rose-900 font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 xl:px-6 xl:py-2 text-white rounded-lg">
-              Avabot
+              TradeAvaxBot
             </button>
             <button className="border border-black font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 xl:px-6 xl:py-2 text-black rounded-lg">
               Buy $AVB
@@ -61,7 +61,7 @@ const Home = () => {
                 +4200
               </p>
               <p className="text-2xl md:text-3xl md:mt-2 font-bold">
-                Avabot users
+                TradeAvaxBot users
               </p>
             </div>
             <div className="text-center py-7 md:py-14">
@@ -69,7 +69,7 @@ const Home = () => {
                 380 000$
               </p>
               <p className="text-2xl md:text-3xl md:mt-2 font-bold">
-                Avabot volume
+                TradeAvaxBot volume
               </p>
             </div>
             <div className="text-center py-7 md:py-14">
@@ -89,7 +89,7 @@ const Home = () => {
 
           <div className="px-10 pt-5 pb-20 mx-auto">
             <p className="text-3xl text-center font-bold xl:text-5xl">
-              <span className="text-red-600 ">Avabot</span> premium experiences
+              <span className="text-red-600 ">TradeAvaxBot</span> premium experiences
             </p>
           </div>
         </div> */}
@@ -126,7 +126,7 @@ const Home = () => {
           </div>
           <div className="w-100 py-10 flex items-center justify-center">
             <button className="bg-black font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 text-white rounded-lg">
-              Avabot Manual
+              TradeAvaxBot Manual
             </button>
           </div>
 
@@ -141,7 +141,7 @@ const Home = () => {
                 Sniping Tool
               </p>
               <p className="md:text-xl md:mt-2">
-                Snipe like a pro with Avabot's lightning-fast execution.
+                Snipe like a pro with TradeAvaxBot's lightning-fast execution.
               </p>
             </div>
             <div className="shadow-md p-5 rounded-lg text-center flex flex-col items-center xl:w-1/3">
@@ -154,7 +154,7 @@ const Home = () => {
                 Post-Purchase Toolkit
               </p>
               <p className="md:text-xl md:mt-2">
-                Profit at the speed of thought with Avabot's Instant Sell.
+                Profit at the speed of thought with TradeAvaxBot's Instant Sell.
               </p>
             </div>
             <div className="shadow-md p-5 rounded-lg text-center flex flex-col items-center xl:w-1/3">
@@ -167,7 +167,7 @@ const Home = () => {
                 Live Tracking PNL
               </p>
               <p className="md:text-xl md:mt-2">
-                Monitor your wins as they happen with Avabot.
+                Monitor your wins as they happen with TradeAvaxBot.
               </p>
             </div>
             <div className="shadow-md p-5 rounded-lg text-center flex flex-col items-center xl:w-1/3">
@@ -227,7 +227,7 @@ const Home = () => {
           </div>
           <div className="py-5 space-y-3 md:space-y-6 xl:space-y-10 xl:mt-10 flex flex-col items-center">
             <button className="bg-gradient-to-b from-rose-600 via-rose-800 to-rose-900 font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 text-white rounded-lg">
-              Avabot Manual
+              TradeAvaxBot Manual
             </button>
             <button className="bg-gradient-to-b from-rose-600 via-rose-800 to-rose-900 font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 text-white rounded-lg">
               Twitter
@@ -239,7 +239,7 @@ const Home = () => {
         </div> */}
 
         <p className="font-bold text-sm md:text-lg text-center xl:text-lg mb-5">
-          Copyright © 2023 Avabot. All rights reserved.
+          Copyright © 2023 TradeAvaxBot. All rights reserved.
         </p>
       </div>
     </div>

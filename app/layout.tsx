@@ -5,7 +5,7 @@ import './globals.css';
 const karla = Karla({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Avabot',
+  title: 'TradeAvaxBot',
   description: 'First ever telegram sniping bot on',
 };
 
