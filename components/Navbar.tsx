@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Logo from '@/public/assets/avax.png';
+import Link from 'next/link';
 
 const Navbar = () => {
   return (
@@ -10,7 +11,11 @@ const Navbar = () => {
       </div>
       <div className="w-1/3 flex flex-col xl:flex-row xl:justify-end xl:space-x-5 items-end space-y-3">
         <button className="bg-gradient-to-b from-rose-600 via-rose-800 to-rose-900 font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 xl:px-6 xl:py-2 text-white rounded-lg">
-          Twitter
+          <Link
+            href={'https://twitter.com/tradeavaxbot?t=v9j8Pe2NAq4Us2JVlOBNsw'}
+          >
+            Twitter
+          </Link>
         </button>
         <button className="bg-black text-white font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 xl:px-6 xl:py-2  rounded-lg">
           Telegram
