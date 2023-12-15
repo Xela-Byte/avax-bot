@@ -38,9 +38,9 @@ const Home = () => {
           </div>
           <div className="py-5 xl:px-[20%]">
             <p className="text-center text-gray-800 md:text-lg xl:text-xl md:font-medium xl:font-bold">
-              TradeAvaxBot offers the smoothest and most seamless trading
-              experience on Avalanche, setting a new benchmark for efficiency
-              and ease of use in the DeFi trading world.
+              A new standard for efficiency and user-friendliness in the DeFi
+              trading industry is being set by TradeAvaxBot, which provides the
+              smoothest and most fluid trading experience on Avalanche.
             </p>
           </div>
 
@@ -49,60 +49,20 @@ const Home = () => {
               TradeAvaxBot
             </button>
             <button className="border border-black font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 xl:px-6 xl:py-2 text-black rounded-lg">
-              Buy $AVB
+              Buy $TAB
             </button>
           </div>
         </div>
 
-        {/* <div className="w-100 my-5 py-5 rounded-md bg-gradient-to-b from-white via-rose-100 to-white">
-          <div className="flex flex-col xl:flex-row xl:items-center xl:justify-between xl:w-2/3 xl:mx-auto">
-            <div className="text-center py-7 md:py-14">
-              <p className="text-gray-700 text-4xl md:text-5xl font-semibold">
-                +4200
-              </p>
-              <p className="text-2xl md:text-3xl md:mt-2 font-bold">
-                TradeAvaxBot users
-              </p>
-            </div>
-            <div className="text-center py-7 md:py-14">
-              <p className="text-gray-700 text-4xl md:text-5xl font-semibold">
-                380 000$
-              </p>
-              <p className="text-2xl md:text-3xl md:mt-2 font-bold">
-                TradeAvaxBot volume
-              </p>
-            </div>
-            <div className="text-center py-7 md:py-14">
-              <p className="text-gray-700 text-4xl md:text-5xl font-semibold">
-                +1300
-              </p>
-              <p className="text-2xl md:text-3xl md:mt-2 font-bold">
-                $AVB holders
-              </p>
-            </div>
-          </div>
-          <Image
-            src={Logo}
-            className="mx-auto my-10 w-20 h-20 object-cover xl:w-40 xl:h-40"
-            alt="logo"
-          />
-
-          <div className="px-10 pt-5 pb-20 mx-auto">
-            <p className="text-3xl text-center font-bold xl:text-5xl">
-              <span className="text-red-600 ">TradeAvaxBot</span> premium experiences
-            </p>
-          </div>
-        </div> */}
-
         <div className="w-100 my-5 py-5">
           <div className="space-y-10 xl:space-y-0 md:w-2/3 xl:p-10 xl:w-[100%] md:mx-auto xl:flex xl:flex-row xl:items-center xl:justify-between">
             <div className="space-y-2 md:space-y-4 px-10 text-center">
-              <IoShieldHalf className={'text-red-400 mx-auto text-4xl'} />
+              <MdOutlineSpeed className={'text-red-400 mx-auto text-4xl'} />
               <p className="text-gray-800 text-xl md:text-2xl font-semibold">
-                High-Speed Trading Terminal
+                Fast-Trading Trading Terminal
               </p>
               <p className="md:text-xl">
-                Instantaneous trading with a user-friendly interface.
+                Trade instantly with an easy-to-use interface.
               </p>
             </div>
             <div className="space-y-2 md:space-y-4 px-10 text-center">
@@ -115,9 +75,9 @@ const Home = () => {
               </p>
             </div>
             <div className="space-y-2 md:space-y-4 px-10 text-center">
-              <MdOutlineSpeed className={'text-red-400 mx-auto text-4xl'} />
+              <IoShieldHalf className={'text-red-400 mx-auto text-4xl'} />
               <p className="text-gray-800 text-xl md:text-2xl font-semibold">
-                Robust Safety Protocols
+                Strong safety procedures
               </p>
               <p className="md:text-xl">
                 Measures to shield against threats like liquidity rugs
@@ -211,46 +171,6 @@ const Home = () => {
             </div>
           </div>
         </div>
-
-        {/* <div className="w-100 my-5 bg-gradient-to-b from-gray-100 via-gray-100 to-rose-300 rounded-md p-2 xl:p-5 xl:mx-20 xl:rounded-xl 2xl:w-2/3 2xl:mx-auto 2xl:my-10">
-          <Image
-            src={Logo}
-            className="mx-auto my-10 w-20 h-20 object-cover"
-            alt="logo"
-          />
-
-          <p className="font-bold md:my-10 text-sm xl:text-lg text-center">
-            $AVB CA: 0x9f71B3118d97a448B127bf7677a59AB7454D0a04
-          </p>
-
-          <div
-            className={`text-2xl mt-5 md:text-3xl xl:text-5xl font-semibold ${russ.className} flex flex-col md:flex-row xl:flex-col md:space-x-2 xl:space-x-3 md:justify-center items-center`}
-          >
-            <p className="md:mt-2 text-center">
-              Most innovative telegram sniping bot on
-            </p>
-            <div className="flex">
-              <Image
-                src={AvalancheLogo}
-                className="w-7 h-7 mt-1 xl:w-10 xl:h-10 md:mt-2"
-                alt="AvalancheLogo"
-              />
-              <p className="text-red-600 mt-2">valanche</p>
-            </div>
-          </div>
-          <div className="py-5 space-y-3 md:space-y-6 xl:space-y-10 xl:mt-10 flex flex-col items-center">
-            <button className="bg-gradient-to-b from-rose-600 via-rose-800 to-rose-900 font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 text-white rounded-lg">
-              TradeAvaxBot Manual
-            </button>
-            <button className="bg-gradient-to-b from-rose-600 via-rose-800 to-rose-900 font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 text-white rounded-lg">
-              Twitter
-            </button>
-            <button className="bg-gradient-to-b from-rose-600 via-rose-800 to-rose-900 font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 text-white rounded-lg">
-              Open Bot
-            </button>
-          </div>
-        </div> */}
-
         <p className="font-bold text-sm md:text-lg text-center xl:text-lg mb-5">
           Copyright © 2023 TradeAvaxBot. All rights reserved.
         </p>
