@@ -6,6 +6,7 @@ import PurchaseFeature from '@/public/assets/purchaseFeature.png';
 import SettingsFeature from '@/public/assets/settingsFeature.png';
 import TrackFeature from '@/public/assets/trackFeature.png';
 import WithdrawFeature from '@/public/assets/withdrawFeature.png';
+import OnrampFeature from '@/public/assets/onrampFeature.png';
 import { Russo_One } from 'next/font/google';
 import Image from 'next/image';
 import { IoShieldHalf } from 'react-icons/io5';
@@ -158,7 +159,7 @@ const Home = () => {
             </div>
             <div className="shadow-md p-5 rounded-lg text-center flex flex-col items-center xl:w-1/3">
               <Image
-                src={WithdrawFeature}
+                src={OnrampFeature}
                 className="w-100 h-2/3 xl:w-1/2"
                 alt="buyFeature"
               />
