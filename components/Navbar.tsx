@@ -12,7 +12,9 @@ const Navbar = () => {
       <div className="w-1/3 flex flex-col xl:flex-row xl:justify-end xl:space-x-5 items-end space-y-3">
         <button className="bg-gradient-to-b from-rose-600 via-rose-800 to-rose-900 font-semibold text-sm md:text-lg xl:text-xl px-3 py-1 xl:px-6 xl:py-2 text-white rounded-lg">
           <Link
-            href={'https://twitter.com/tradeavaxbot?t=v9j8Pe2NAq4Us2JVlOBNsw'}
+            href={
+              'https://twitter.com/TradeAvaxBott?t=JPNFHP9agb8J133MZSARYg&s=09'
+            }
           >
             Twitter
           </Link>
