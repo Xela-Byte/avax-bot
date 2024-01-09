@@ -144,19 +144,7 @@ const Home = () => {
                 A tool suite for strategic trading and profit protection.
               </p>
             </div>
-            <div className="shadow-md p-5 rounded-lg text-center flex flex-col items-center xl:w-1/3">
-              <Image
-                src={SettingsFeature}
-                className="w-100 h-2/3 xl:w-1/2"
-                alt="buyFeature"
-              />
-              <p className="text-gray-800 text-xl md:text-2xl mt-5 font-semibold">
-                Personal Settings
-              </p>
-              <p className="md:text-xl md:mt-2">
-                A tool suite for strategic trading and profit protection.
-              </p>
-            </div>
+
             <div className="shadow-md p-5 rounded-lg text-center flex flex-col items-center xl:w-1/3">
               <Image
                 src={OnrampFeature}
